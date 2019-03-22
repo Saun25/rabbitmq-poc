@@ -1,0 +1,4 @@
+com/stackroute/rabbitmqproducer/configuration/RabbitProducerConfig.class
+com/stackroute/rabbitmqproducer/component/RabbitmqProducer.class
+com/stackroute/rabbitmqproducer/RabbitmqProducerApplication.class
+com/stackroute/rabbitmqproducer/controller/RabitmqController.class

@@ -1,0 +1,4 @@
+/home/saunak/Rabbitmq-poc/rabbitmq-producer/src/main/java/com/stackroute/rabbitmqproducer/controller/RabitmqController.java
+/home/saunak/Rabbitmq-poc/rabbitmq-producer/src/main/java/com/stackroute/rabbitmqproducer/RabbitmqProducerApplication.java
+/home/saunak/Rabbitmq-poc/rabbitmq-producer/src/main/java/com/stackroute/rabbitmqproducer/configuration/RabbitProducerConfig.java
+/home/saunak/Rabbitmq-poc/rabbitmq-producer/src/main/java/com/stackroute/rabbitmqproducer/component/RabbitmqProducer.java
