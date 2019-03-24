@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.stackroute.rabbitmqproducer.RabbitmqProducerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.769 s - in com.stackroute.rabbitmqproducer.RabbitmqProducerApplicationTests
